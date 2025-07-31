@@ -1,16 +1,44 @@
-# firebase_auth_app
+#  firebase_auth_app
 
-A new Flutter project.
+A Flutter-based **Firebase Authentication App** built during my **Flutter Internship at DevelopersHub Corporation©**.
 
-## Getting Started
+## ![p2](https://github.com/user-attachments/assets/559a5f88-55bd-4add-9eac-a78d108c611e)
+![p3](https://github.com/user-attachments/assets/1a2886f6-ed4c-4547-9723-2155530e49e5)
+![week 5 p1](https://github.com/user-attachments/assets/8afe5091-4452-4e6b-afe0-d3a2d8768e33)
+ Internship Week 5 Highlight
 
-This project is a starting point for a Flutter application.
+In Week 5 of my internship, I developed a fully functional authentication flow inspired by modern apps like **Instagram** and **Facebook**.
 
-A few resources to get you started if this is your first Flutter project:
+### ✅ Key Features
+- **Email & Password Login / Signup**
+- **Firebase Firestore Integration**
+- **User Profile Page with Real-time Data**
+- **Responsive & Clean UI using Flutter**
+- **Coming Soon**: State Management with **Provider**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📱 Screens
+> Login | Signup | Profile Page  
+> *(Real-time Data powered by Firebase Firestore)*
+
+---
+
+## 📂 Tech Stack
+- **Flutter**
+- **Dart**
+- **Firebase Auth**
+- **Firebase Firestore**
+- **Flutter Widgets**
+- **Material Design**
+
+---
+
+## 💡 Getting Started
+
+This project is built with Flutter and Firebase.  
+To run it locally:
+
+```bash
+flutter pub get
+flutter run
